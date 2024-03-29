@@ -20,3 +20,5 @@ Player takes front and center stage engaging in perilious games to clear a debt
     
     B) Known Bugs and/or Errors:
     None.
+
+     "#### By: [Shakti Singh](https://www.linkedin.com/in/shakti--singh/)\n"
