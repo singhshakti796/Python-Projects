@@ -1,0 +1,12 @@
+
+after analyzing the data, I found some data that would help StayHealthy with their marketing strategy
+1. their target audience have an office job, meaning that they spend an awful lot of time sitting down but are indeed active at lunchtime and after 5PM
+2. their customers do some light activity
+
+To sum up the recommendations for the app
+
+1. add a notification to remind the user to reach a step goal, 10000 steps if no physical activity is done, 7000 is a good average even if the WHO and CDC say that 5000 is the absolute minimum
+2. in order to lose weight, you need to be in calorie deficit, so the app can track the macros like myfitnesspal and give an alert as soon as a goal is reached whether it be protein, carbs or fat
+3. add a notification for the user to go to sleep
+4. the app could also give an alert after work around 5PM to motivate the user to go to the gym and not give in to the lack of motivation
+5. in order to improve the user's sleep, the app could also provide a white noise service in order to help with the sleeping process. Sounds that could be included: warp, rain, zen music
